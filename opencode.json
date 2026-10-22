@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "devrelay-gateway": {
+      "type": "local",
+      "command": ["C:\\Users\\gagan\\.devrelay\\bin\\dev_mlh_mcp_server.exe", "--stdio"],
+      "enabled": true
+    }
+  }
+}

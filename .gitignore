@@ -1,0 +1,14 @@
+# secrets — never commit
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# generated demo output (rebuild with `uv run ghost.py --brief --speak`)
+brief.mp3
+
+# third-party agent skills (reinstall with the npx command in README)
+.agents/

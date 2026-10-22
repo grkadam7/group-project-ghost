@@ -1,0 +1,30 @@
+project: DBMS Mini Project — Library Management
+members:
+  - priya
+  - arun
+  - me
+tasks:
+  - task: ER diagram + normalized schema
+    owner: priya
+    due: 2026-10-19
+    status: done
+  - task: SQL schema + seed data script
+    owner: arun
+    due: 2026-10-20
+    status: done
+  - task: CRUD API endpoints (Flask)
+    owner: me
+    due: 2026-10-21
+    status: done
+  - task: Frontend — issue/return pages
+    owner: arun
+    due: 2026-10-20
+    status: todo
+  - task: Write the 6-page report
+    owner: priya
+    due: 2026-10-21
+    status: todo
+  - task: Demo script + slides
+    owner: arun
+    due: 2026-10-24
+    status: todo
